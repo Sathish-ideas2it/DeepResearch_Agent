@@ -1,6 +1,6 @@
 # Deep Research Agent
 
-A production-ready agentic AI system that analyzes user topics, performs web research, and generates comprehensive technical reports using parallel processing and LangGraph workflows.
+Agentic AI system that analyzes user topics, performs web research, and generates comprehensive technical reports using parallel processing and LangGraph workflows(inspired by ChatGPT’s DeepSearch).
 
 ## Features
 
