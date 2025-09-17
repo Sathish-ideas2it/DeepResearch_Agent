@@ -1,0 +1,23 @@
+.env
+main_single.py
+notebook.ipynb
+test_structured.py
+.pycache__
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE / editor settings
+.vscode/
+.idea/
